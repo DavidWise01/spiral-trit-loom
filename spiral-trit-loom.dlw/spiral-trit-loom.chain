@@ -4,6 +4,6 @@ slug  : spiral-trit-loom
 seal  : e6f0a82c7a276a164b735659c97a67b4fca2116034f2755fc401c4d30a6bb182
 prev  : e1e7e8b0dcc0c2541074231a787b8b457cbc8396e41aa65fe73ddef5d177ff53
 link  : a5c1d5356f6afee2dfa77c8af980ad9f25e83f862be05439fbc16627e9c7d4fd
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
